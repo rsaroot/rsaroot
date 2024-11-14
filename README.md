@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Sergey Shapar!
 
+👨‍💻 DE | Python | SQL | Cloud
+
+📊 Transforming raw data
+⚙️ Building data pipelines
+📈 Constructing data visual
+☁️ Working with cloud platforms
 <!--
 **rsaroot/rsaroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
