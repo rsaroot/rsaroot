@@ -2,10 +2,13 @@
 
 👨‍💻 DE | Python | SQL | Cloud
 
-- 📊 Transforming raw data
+🔍 Passionate about:
+- 📊 Transforming raw data into meaningful insights
 - ⚙️ Building data pipelines
-- 📈 Constructing data visual
-- ☁️ Working with cloud platforms
+- 📈 Crafting data visual to tell stories
+- ☁️ Leveraging cloud platforms for data solutions
+
+💡 Always eager to learn and explore the latest in data and technology!
 <!--
 **rsaroot/rsaroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
