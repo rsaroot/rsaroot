@@ -3,7 +3,7 @@
 👨‍💻 DE | Python | SQL | Cloud
 
 🔍 Passionate about:
-- 📊 Transforming raw data into meaningful insights
+- 📊 Turning raw data into valuable insights
 - ⚙️ Building data pipelines
 - 📈 Crafting data visual to tell stories
 - ☁️ Leveraging cloud platforms for data solutions
