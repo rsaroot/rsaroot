@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sergey Shapar!
+## Hi there 👋 I'm Sergey Shapar
 
 👨‍💻 DE | Python | SQL | Cloud
 
