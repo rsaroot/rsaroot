@@ -7,8 +7,6 @@
 - ⚙️ Building data pipelines
 - 📈 Crafting data visual to tell stories
 - ☁️ Leveraging cloud platforms for solutions
-
-💡 Always eager to learn and explore the latest in technology
 <!--
 **rsaroot/rsaroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
