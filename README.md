@@ -6,7 +6,7 @@
 - 📊 Turning raw data into valuable insights
 - ⚙️ Building data pipelines
 - 📈 Crafting data visual to tell stories
-- ☁️ Leveraging cloud platforms for data solutions
+- ☁️ Leveraging cloud platforms for solutions
 
 💡 Always eager to learn and explore the latest in technology
 <!--
